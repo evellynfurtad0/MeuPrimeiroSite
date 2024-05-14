@@ -41,4 +41,28 @@ h1{
 }
 h2 {
     color: blueviolet;
+    line-height: 1.5;
+}
+.logo img {
+    width: 80%;
+    height: auto;}
+
+.cabecalho{
+    padding: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+    text-align: justify;
+}
+figure {
+    text-align: center;
+    display: inline-block;
+}
+.caixa-imagem{
+    text-align: center;
+    margin-top: 1%;
 }
