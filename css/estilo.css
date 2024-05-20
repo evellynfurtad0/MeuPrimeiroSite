@@ -42,6 +42,7 @@ h1{
 h2 {
     color: blueviolet;
     line-height: 1.5;
+    text-align: center;
 }
 .logo img {
     width: 80%;
