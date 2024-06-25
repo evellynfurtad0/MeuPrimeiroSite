@@ -65,11 +65,12 @@ nav ul li a:hover{
 .menu-icon {
     display: none;
     font-size: 30px;
-    color: azure;
+    color: white;
     cursor: pointer;
 }
+
 #menu-toggle {
- display: none;
+    display: none;
 }
 @media (max-width: 768px) {
     .menu-icon {
